@@ -8,6 +8,7 @@
 - 适用系统：Windows 10 / 11（64 位）
 - 安装包大小：45.97 MB
 - 官网：https://www.mcleyuan.com/cz/index.html
+- 镜像页（国内可访问）：https://tiyinet.github.io/MengChongcz/
 - 价格：免费，无内购、无抽卡、无广告
 
 ---
